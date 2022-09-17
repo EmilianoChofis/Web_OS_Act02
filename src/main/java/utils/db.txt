@@ -1,0 +1,1 @@
+create table calculadora(id int primary key auto_increment, operacion varchar(100),numero_1 varchar(50), numero_2 varchar(50), resultado varchar(100));
